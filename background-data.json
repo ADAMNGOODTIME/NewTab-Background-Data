@@ -29,7 +29,6 @@
     { "type": "image", "url": "https://images8.alphacoders.com/127/1276772.jpg" },
     { "type": "image", "url": "https://images3.alphacoders.com/128/1280903.png" },
     { "type": "image", "url": "https://images6.alphacoders.com/124/1244667.jpg" },
-    // ... (more image entries)
     { "type": "video", "url": "https://i.imgur.com/ERnwuXY.mp4" },
     { "type": "video", "url": "https://i.imgur.com/IrZ5pEv.mp4" },
     { "type": "video", "url": "https://i.imgur.com/gNXhMXN.mp4" },
@@ -131,6 +130,5 @@
     { "type": "video", "url": "https://i.imgur.com/L1DvVRb.mp4" },
     { "type": "video", "url": "https://i.imgur.com/lB272wj.mp4" },
     { "type": "video", "url": "https://i.imgur.com/Fww8KBc.mp4" },
-    // ... (more video entries)
   ]
 }
