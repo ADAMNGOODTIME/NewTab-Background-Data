@@ -1,4 +1,4 @@
-[
+{ "backgroundItems": [
     { "type": "image", "url": "https://w.wallhaven.cc/full/8o/wallhaven-8ozxq2.png" },
     { "type": "image", "url": "https://w.wallhaven.cc/full/3z/wallhaven-3zgr23.png" },
     { "type": "image", "url": "https://w.wallhaven.cc/full/m3/wallhaven-m3qpl1.jpg" },
@@ -129,4 +129,4 @@
     { "type": "video", "url": "https://i.imgur.com/L1DvVRb.mp4" },
     { "type": "video", "url": "https://i.imgur.com/lB272wj.mp4" },
     { "type": "video", "url": "https://i.imgur.com/Fww8KBc.mp4" },
-  ]
+  ]}
